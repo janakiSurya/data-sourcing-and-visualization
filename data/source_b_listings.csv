@@ -1,0 +1,501 @@
+property_id,location,property_type,price,bedrooms,bathrooms,square_feet,listing_date,description
+B-0001,Los Angeles,Loft,325033.83,4,1.5,1026,2024-12-19,Sample property 1 from Source B. Located in a prime area with great amenities.
+B-0002,Atlanta,Apartment,1513976.19,6,2.0,1524,2024-11-18,Sample property 2 from Source B. Located in a prime area with great amenities.
+B-0003,Dallas,Loft,1780442.86,6,3.0,1341,2024-02-19,Sample property 3 from Source B. Located in a prime area with great amenities.
+B-0004,Los Angeles,Loft,1743714.65,2,2.5,3416,2024-03-06,Sample property 4 from Source B. Located in a prime area with great amenities.
+B-0005,Atlanta,Apartment,424180.24,3,2.0,822,2022-06-18,Sample property 5 from Source B. Located in a prime area with great amenities.
+B-0006,Portland,Apartment,1120734.71,4,2.0,2861,2024-06-23,Sample property 6 from Source B. Located in a prime area with great amenities.
+B-0007,Miami,Apartment,1627378.84,3,4.0,3087,2025-11-06,Sample property 7 from Source B. Located in a prime area with great amenities.
+B-0008,San Diego,Apartment,571700.59,1,3.5,3444,2025-11-11,Sample property 8 from Source B. Located in a prime area with great amenities.
+B-0009,Atlanta,House,335705.57,3,3.0,2458,2024-08-06,Sample property 9 from Source B. Located in a prime area with great amenities.
+B-0010,Atlanta,House,613087.89,2,3.5,3737,2022-05-24,Sample property 10 from Source B. Located in a prime area with great amenities.
+B-0011,Atlanta,Loft,1078390.28,5,3.0,630,2023-10-11,Sample property 11 from Source B. Located in a prime area with great amenities.
+B-0012,Los Angeles,House,1055283.13,3,3.5,809,2024-11-15,Sample property 12 from Source B. Located in a prime area with great amenities.
+B-0013,Portland,Condo,741920.12,1,3.5,1193,2023-02-19,Sample property 13 from Source B. Located in a prime area with great amenities.
+B-0014,Los Angeles,Townhouse,1123476.83,2,4.0,1252,2024-08-18,Sample property 14 from Source B. Located in a prime area with great amenities.
+B-0015,Atlanta,Townhouse,1364731.19,3,1.0,1854,2025-04-08,Sample property 15 from Source B. Located in a prime area with great amenities.
+B-0016,San Diego,Loft,1629564.23,2,4.0,1395,2025-08-26,Sample property 16 from Source B. Located in a prime area with great amenities.
+B-0017,Miami,House,1236830.0,3,1.0,1466,2024-06-04,Sample property 17 from Source B. Located in a prime area with great amenities.
+B-0018,Miami,Apartment,622524.83,5,4.0,870,2024-09-02,Sample property 18 from Source B. Located in a prime area with great amenities.
+B-0019,Portland,Apartment,1218556.61,2,2.5,1683,2022-11-11,Sample property 19 from Source B. Located in a prime area with great amenities.
+B-0020,Atlanta,House,892260.93,1,2.0,2669,2023-05-27,Sample property 20 from Source B. Located in a prime area with great amenities.
+B-0021,San Diego,Condo,833201.93,2,3.0,1007,2023-08-11,Sample property 21 from Source B. Located in a prime area with great amenities.
+B-0022,San Diego,Loft,1581300.35,4,1.5,2856,2023-10-26,Sample property 22 from Source B. Located in a prime area with great amenities.
+B-0023,Atlanta,Townhouse,571225.9,6,1.5,796,2023-08-11,Sample property 23 from Source B. Located in a prime area with great amenities.
+B-0024,Atlanta,Townhouse,1660971.8,2,1.5,2628,2022-04-06,Sample property 24 from Source B. Located in a prime area with great amenities.
+B-0025,Atlanta,Townhouse,1365917.3,6,4.0,1929,2022-04-26,Sample property 25 from Source B. Located in a prime area with great amenities.
+B-0026,Los Angeles,House,411754.66,1,2.5,2635,2025-04-12,Sample property 26 from Source B. Located in a prime area with great amenities.
+B-0027,Dallas,Townhouse,961851.67,5,1.5,3038,2023-12-15,Sample property 27 from Source B. Located in a prime area with great amenities.
+B-0028,Los Angeles,House,363025.78,5,1.0,3627,2022-04-16,Sample property 28 from Source B. Located in a prime area with great amenities.
+B-0029,Los Angeles,Loft,563723.47,5,4.0,1251,2022-05-10,Sample property 29 from Source B. Located in a prime area with great amenities.
+B-0030,Phoenix,Loft,914551.46,1,1.5,3756,2024-06-16,Sample property 30 from Source B. Located in a prime area with great amenities.
+B-0031,San Diego,Loft,933000.58,1,4.0,2194,2023-11-01,Sample property 31 from Source B. Located in a prime area with great amenities.
+B-0032,Los Angeles,Townhouse,1106159.14,5,2.5,2850,2022-03-24,Sample property 32 from Source B. Located in a prime area with great amenities.
+B-0033,Dallas,House,1514116.54,5,4.0,1395,2024-04-16,Sample property 33 from Source B. Located in a prime area with great amenities.
+B-0034,Dallas,Condo,799744.83,1,2.0,3221,2022-01-20,Sample property 34 from Source B. Located in a prime area with great amenities.
+B-0035,Portland,Loft,1564079.67,6,4.0,2626,2024-09-13,Sample property 35 from Source B. Located in a prime area with great amenities.
+B-0036,Phoenix,Townhouse,1719130.04,4,2.5,1798,2022-03-28,Sample property 36 from Source B. Located in a prime area with great amenities.
+B-0037,Phoenix,Loft,1389687.93,4,2.0,2493,2025-11-07,Sample property 37 from Source B. Located in a prime area with great amenities.
+B-0038,Portland,Townhouse,1231433.76,6,2.0,2414,2025-08-23,Sample property 38 from Source B. Located in a prime area with great amenities.
+B-0039,Miami,Loft,803036.02,1,3.5,3633,2022-08-05,Sample property 39 from Source B. Located in a prime area with great amenities.
+B-0040,Los Angeles,Loft,267591.06,6,3.0,1937,2025-10-11,Sample property 40 from Source B. Located in a prime area with great amenities.
+B-0041,Portland,Apartment,769590.53,3,2.0,1467,2025-01-08,Sample property 41 from Source B. Located in a prime area with great amenities.
+B-0042,San Diego,Condo,1729824.9,6,2.5,3206,2022-05-12,Sample property 42 from Source B. Located in a prime area with great amenities.
+B-0043,Phoenix,Apartment,1139387.87,2,1.5,3333,2023-04-24,Sample property 43 from Source B. Located in a prime area with great amenities.
+B-0044,San Diego,Loft,302681.69,6,2.5,3514,2023-10-26,Sample property 44 from Source B. Located in a prime area with great amenities.
+B-0045,Portland,House,324233.81,2,2.0,1505,2025-04-08,Sample property 45 from Source B. Located in a prime area with great amenities.
+B-0046,Los Angeles,Townhouse,1130167.28,6,2.5,3067,2023-11-11,Sample property 46 from Source B. Located in a prime area with great amenities.
+B-0047,Dallas,Townhouse,903243.28,6,1.0,2085,2025-06-04,Sample property 47 from Source B. Located in a prime area with great amenities.
+B-0048,Atlanta,Townhouse,1777325.01,4,1.5,2159,2024-12-02,Sample property 48 from Source B. Located in a prime area with great amenities.
+B-0049,San Diego,Condo,1239830.11,4,2.5,3168,2024-02-04,Sample property 49 from Source B. Located in a prime area with great amenities.
+B-0050,Dallas,Townhouse,1038799.07,2,2.5,2390,2025-06-23,Sample property 50 from Source B. Located in a prime area with great amenities.
+B-0051,Miami,Apartment,1427692.11,4,4.0,2967,2023-07-22,Sample property 51 from Source B. Located in a prime area with great amenities.
+B-0052,Miami,Apartment,948887.4,5,3.0,3573,2025-02-12,Sample property 52 from Source B. Located in a prime area with great amenities.
+B-0053,Dallas,Loft,1299723.02,2,3.5,1909,2024-05-28,Sample property 53 from Source B. Located in a prime area with great amenities.
+B-0054,Miami,Loft,566672.68,5,1.0,1570,2025-07-28,Sample property 54 from Source B. Located in a prime area with great amenities.
+B-0055,Miami,Condo,1000937.03,6,1.0,1848,2025-10-19,Sample property 55 from Source B. Located in a prime area with great amenities.
+B-0056,Miami,Loft,1798712.09,6,3.0,1201,2024-09-17,Sample property 56 from Source B. Located in a prime area with great amenities.
+B-0057,Portland,House,441909.51,4,3.5,2322,2024-08-11,Sample property 57 from Source B. Located in a prime area with great amenities.
+B-0058,Los Angeles,Townhouse,275560.18,2,2.5,770,2023-06-02,Sample property 58 from Source B. Located in a prime area with great amenities.
+B-0059,Phoenix,Loft,597578.35,4,4.0,1337,2022-10-17,Sample property 59 from Source B. Located in a prime area with great amenities.
+B-0060,Dallas,Apartment,1681957.14,1,4.0,1702,2024-06-21,Sample property 60 from Source B. Located in a prime area with great amenities.
+B-0061,Portland,Apartment,1197444.15,5,4.0,2821,2022-02-06,Sample property 61 from Source B. Located in a prime area with great amenities.
+B-0062,Atlanta,Loft,422362.09,2,4.0,3333,2022-05-20,Sample property 62 from Source B. Located in a prime area with great amenities.
+B-0063,Los Angeles,Apartment,682023.83,1,1.5,2239,2024-06-20,Sample property 63 from Source B. Located in a prime area with great amenities.
+B-0064,Los Angeles,Apartment,991709.56,2,3.0,2991,2022-10-03,Sample property 64 from Source B. Located in a prime area with great amenities.
+B-0065,Los Angeles,Apartment,753634.31,6,1.5,1258,2024-03-11,Sample property 65 from Source B. Located in a prime area with great amenities.
+B-0066,Dallas,Apartment,1474240.79,4,2.5,3216,2023-03-08,Sample property 66 from Source B. Located in a prime area with great amenities.
+B-0067,Dallas,Townhouse,1529033.85,3,3.0,2988,2023-01-04,Sample property 67 from Source B. Located in a prime area with great amenities.
+B-0068,San Diego,House,1306706.17,4,3.5,2741,2023-09-05,Sample property 68 from Source B. Located in a prime area with great amenities.
+B-0069,Portland,Apartment,1184424.48,2,2.5,1024,2024-12-25,Sample property 69 from Source B. Located in a prime area with great amenities.
+B-0070,Miami,Townhouse,1325841.28,4,3.5,1428,2023-05-22,Sample property 70 from Source B. Located in a prime area with great amenities.
+B-0071,San Diego,Condo,1094554.71,6,1.0,3171,2023-02-27,Sample property 71 from Source B. Located in a prime area with great amenities.
+B-0072,San Diego,Loft,663821.65,6,2.5,3396,2024-03-24,Sample property 72 from Source B. Located in a prime area with great amenities.
+B-0073,San Diego,Apartment,1603891.17,1,2.0,3487,2025-09-23,Sample property 73 from Source B. Located in a prime area with great amenities.
+B-0074,Phoenix,Condo,493508.88,3,4.0,1448,2022-09-14,Sample property 74 from Source B. Located in a prime area with great amenities.
+B-0075,Los Angeles,Loft,1120503.37,3,3.0,2737,2024-10-25,Sample property 75 from Source B. Located in a prime area with great amenities.
+B-0076,Los Angeles,Townhouse,913486.07,5,4.0,1794,2023-12-02,Sample property 76 from Source B. Located in a prime area with great amenities.
+B-0077,Phoenix,Townhouse,830330.79,6,3.0,785,2025-02-28,Sample property 77 from Source B. Located in a prime area with great amenities.
+B-0078,Phoenix,Apartment,1154531.06,2,3.5,2545,2025-10-03,Sample property 78 from Source B. Located in a prime area with great amenities.
+B-0079,Portland,Loft,415548.35,2,1.0,3495,2024-11-21,Sample property 79 from Source B. Located in a prime area with great amenities.
+B-0080,Phoenix,Condo,630329.59,4,3.5,1551,2023-01-01,Sample property 80 from Source B. Located in a prime area with great amenities.
+B-0081,Atlanta,Townhouse,1263709.62,2,2.0,1581,2025-09-18,Sample property 81 from Source B. Located in a prime area with great amenities.
+B-0082,Dallas,Loft,953129.96,6,2.5,1855,2022-10-16,Sample property 82 from Source B. Located in a prime area with great amenities.
+B-0083,San Diego,Condo,1790218.42,6,1.0,1437,2023-03-15,Sample property 83 from Source B. Located in a prime area with great amenities.
+B-0084,Dallas,Condo,754207.26,3,2.5,736,2023-04-12,Sample property 84 from Source B. Located in a prime area with great amenities.
+B-0085,Portland,House,453657.99,6,4.0,2942,2022-02-14,Sample property 85 from Source B. Located in a prime area with great amenities.
+B-0086,Atlanta,Condo,847037.83,3,3.0,1525,2025-03-13,Sample property 86 from Source B. Located in a prime area with great amenities.
+B-0087,San Diego,Loft,1432132.99,4,3.0,1983,2024-11-03,Sample property 87 from Source B. Located in a prime area with great amenities.
+B-0088,Dallas,House,589684.63,4,1.0,3096,2024-07-12,Sample property 88 from Source B. Located in a prime area with great amenities.
+B-0089,San Diego,Loft,320664.98,5,1.5,2364,2022-02-18,Sample property 89 from Source B. Located in a prime area with great amenities.
+B-0090,Dallas,Townhouse,906152.31,2,1.0,2435,2025-10-13,Sample property 90 from Source B. Located in a prime area with great amenities.
+B-0091,Atlanta,Townhouse,390268.11,2,4.0,1797,2023-03-02,Sample property 91 from Source B. Located in a prime area with great amenities.
+B-0092,San Diego,Loft,1252797.03,1,4.0,1623,2025-08-27,Sample property 92 from Source B. Located in a prime area with great amenities.
+B-0093,Phoenix,Condo,1740726.76,5,3.0,860,2023-09-21,Sample property 93 from Source B. Located in a prime area with great amenities.
+B-0094,Los Angeles,House,1170486.06,1,4.0,3799,2023-11-19,Sample property 94 from Source B. Located in a prime area with great amenities.
+B-0095,Phoenix,House,614495.82,2,3.0,3045,2023-03-02,Sample property 95 from Source B. Located in a prime area with great amenities.
+B-0096,Atlanta,Townhouse,523862.21,2,1.0,1829,2024-03-28,Sample property 96 from Source B. Located in a prime area with great amenities.
+B-0097,Portland,Condo,305584.89,2,1.0,990,2025-09-02,Sample property 97 from Source B. Located in a prime area with great amenities.
+B-0098,Atlanta,Loft,1257114.46,5,2.0,2240,2023-01-04,Sample property 98 from Source B. Located in a prime area with great amenities.
+B-0099,Miami,Loft,1448702.82,4,2.0,1390,2023-02-15,Sample property 99 from Source B. Located in a prime area with great amenities.
+B-0100,Phoenix,Loft,298605.95,5,1.0,2603,2022-03-10,Sample property 100 from Source B. Located in a prime area with great amenities.
+B-0101,Los Angeles,Loft,1085205.74,5,3.0,2320,2022-11-18,Sample property 101 from Source B. Located in a prime area with great amenities.
+B-0102,San Diego,House,414989.38,6,3.0,3314,2022-01-02,Sample property 102 from Source B. Located in a prime area with great amenities.
+B-0103,Miami,Apartment,1085493.62,5,3.0,1283,2025-02-26,Sample property 103 from Source B. Located in a prime area with great amenities.
+B-0104,San Diego,Loft,922164.34,4,1.0,3361,2022-04-23,Sample property 104 from Source B. Located in a prime area with great amenities.
+B-0105,Phoenix,Townhouse,537872.93,1,2.0,1828,2022-05-24,Sample property 105 from Source B. Located in a prime area with great amenities.
+B-0106,Phoenix,Loft,713680.51,6,3.5,2333,2023-07-20,Sample property 106 from Source B. Located in a prime area with great amenities.
+B-0107,Phoenix,Condo,1136371.69,1,1.0,3523,2025-02-06,Sample property 107 from Source B. Located in a prime area with great amenities.
+B-0108,Portland,House,1255340.91,4,2.5,2979,2023-06-06,Sample property 108 from Source B. Located in a prime area with great amenities.
+B-0109,Miami,Apartment,1095248.21,1,2.0,1359,2025-10-20,Sample property 109 from Source B. Located in a prime area with great amenities.
+B-0110,Portland,Condo,1193040.08,1,1.0,2279,2022-09-01,Sample property 110 from Source B. Located in a prime area with great amenities.
+B-0111,Phoenix,Apartment,985298.54,3,2.0,1732,2022-10-28,Sample property 111 from Source B. Located in a prime area with great amenities.
+B-0112,Portland,Townhouse,318512.85,3,3.5,2662,2025-09-06,Sample property 112 from Source B. Located in a prime area with great amenities.
+B-0113,Los Angeles,Condo,1141453.15,4,4.0,1683,2025-04-08,Sample property 113 from Source B. Located in a prime area with great amenities.
+B-0114,Phoenix,Townhouse,1688358.38,2,2.5,3048,2024-02-27,Sample property 114 from Source B. Located in a prime area with great amenities.
+B-0115,Atlanta,Loft,924838.38,3,1.5,3259,2022-05-08,Sample property 115 from Source B. Located in a prime area with great amenities.
+B-0116,San Diego,Townhouse,1564551.78,2,2.5,3067,2022-05-16,Sample property 116 from Source B. Located in a prime area with great amenities.
+B-0117,Portland,House,1209391.62,3,3.0,782,2025-08-20,Sample property 117 from Source B. Located in a prime area with great amenities.
+B-0118,Miami,Condo,839463.55,4,4.0,1040,2025-09-01,Sample property 118 from Source B. Located in a prime area with great amenities.
+B-0119,Phoenix,Loft,979678.98,6,3.0,827,2022-08-06,Sample property 119 from Source B. Located in a prime area with great amenities.
+B-0120,Miami,House,1018690.74,3,1.0,3283,2023-03-16,Sample property 120 from Source B. Located in a prime area with great amenities.
+B-0121,Atlanta,Loft,696270.96,2,1.5,2331,2025-10-05,Sample property 121 from Source B. Located in a prime area with great amenities.
+B-0122,Phoenix,Apartment,426884.23,2,4.0,784,2022-11-07,Sample property 122 from Source B. Located in a prime area with great amenities.
+B-0123,Dallas,House,1731618.51,4,2.5,1861,2023-03-01,Sample property 123 from Source B. Located in a prime area with great amenities.
+B-0124,Los Angeles,Apartment,1398776.77,4,4.0,1397,2025-04-01,Sample property 124 from Source B. Located in a prime area with great amenities.
+B-0125,Portland,Condo,1079304.41,6,1.5,2225,2025-07-25,Sample property 125 from Source B. Located in a prime area with great amenities.
+B-0126,Atlanta,Townhouse,1799081.19,1,1.0,1440,2023-07-16,Sample property 126 from Source B. Located in a prime area with great amenities.
+B-0127,Phoenix,Apartment,592840.61,5,1.5,1595,2024-08-16,Sample property 127 from Source B. Located in a prime area with great amenities.
+B-0128,Atlanta,House,413636.92,6,4.0,1199,2024-01-28,Sample property 128 from Source B. Located in a prime area with great amenities.
+B-0129,Portland,Townhouse,415284.15,2,3.5,2904,2025-03-02,Sample property 129 from Source B. Located in a prime area with great amenities.
+B-0130,Portland,Townhouse,975087.55,6,1.0,1480,2022-04-27,Sample property 130 from Source B. Located in a prime area with great amenities.
+B-0131,Los Angeles,Townhouse,409100.65,2,4.0,1912,2025-09-10,Sample property 131 from Source B. Located in a prime area with great amenities.
+B-0132,Portland,House,858941.99,1,1.0,3379,2023-04-04,Sample property 132 from Source B. Located in a prime area with great amenities.
+B-0133,Phoenix,Condo,1225293.77,5,3.5,2093,2024-03-21,Sample property 133 from Source B. Located in a prime area with great amenities.
+B-0134,Phoenix,House,987051.69,3,2.5,912,2022-04-25,Sample property 134 from Source B. Located in a prime area with great amenities.
+B-0135,Los Angeles,Townhouse,462181.74,3,3.5,3662,2022-06-25,Sample property 135 from Source B. Located in a prime area with great amenities.
+B-0136,San Diego,Townhouse,1716947.36,6,1.0,639,2024-07-05,Sample property 136 from Source B. Located in a prime area with great amenities.
+B-0137,Los Angeles,Loft,327500.44,4,2.0,2196,2023-06-13,Sample property 137 from Source B. Located in a prime area with great amenities.
+B-0138,Los Angeles,Townhouse,1007504.44,3,3.0,1531,2022-06-27,Sample property 138 from Source B. Located in a prime area with great amenities.
+B-0139,Atlanta,House,315272.28,1,2.0,2537,2025-06-26,Sample property 139 from Source B. Located in a prime area with great amenities.
+B-0140,Atlanta,Townhouse,439571.3,3,3.0,3020,2024-07-09,Sample property 140 from Source B. Located in a prime area with great amenities.
+B-0141,San Diego,Townhouse,1735449.47,1,1.0,794,2025-03-21,Sample property 141 from Source B. Located in a prime area with great amenities.
+B-0142,San Diego,House,1693543.63,5,4.0,3029,2025-12-20,Sample property 142 from Source B. Located in a prime area with great amenities.
+B-0143,Phoenix,Townhouse,1738312.25,6,1.0,1830,2024-12-13,Sample property 143 from Source B. Located in a prime area with great amenities.
+B-0144,San Diego,Apartment,796300.41,6,3.5,2606,2022-04-14,Sample property 144 from Source B. Located in a prime area with great amenities.
+B-0145,Portland,Townhouse,1703469.32,2,2.5,3418,2023-03-15,Sample property 145 from Source B. Located in a prime area with great amenities.
+B-0146,Los Angeles,Apartment,1307224.62,6,3.5,2147,2025-07-25,Sample property 146 from Source B. Located in a prime area with great amenities.
+B-0147,Portland,Townhouse,1118005.1,5,1.5,719,2024-11-17,Sample property 147 from Source B. Located in a prime area with great amenities.
+B-0148,Dallas,Condo,341991.54,1,1.0,2568,2023-03-25,Sample property 148 from Source B. Located in a prime area with great amenities.
+B-0149,Atlanta,Townhouse,786187.15,6,1.5,887,2022-09-13,Sample property 149 from Source B. Located in a prime area with great amenities.
+B-0150,Los Angeles,House,965763.51,3,3.5,3191,2022-12-10,Sample property 150 from Source B. Located in a prime area with great amenities.
+B-0151,Miami,Townhouse,1094641.27,3,2.0,3719,2025-09-20,Sample property 151 from Source B. Located in a prime area with great amenities.
+B-0152,Dallas,Apartment,479624.6,4,3.5,1048,2022-05-06,Sample property 152 from Source B. Located in a prime area with great amenities.
+B-0153,Miami,Apartment,743251.21,1,3.0,3173,2024-06-07,Sample property 153 from Source B. Located in a prime area with great amenities.
+B-0154,Los Angeles,Condo,587747.18,5,4.0,1670,2023-10-18,Sample property 154 from Source B. Located in a prime area with great amenities.
+B-0155,Los Angeles,Townhouse,693119.08,4,3.5,900,2022-09-28,Sample property 155 from Source B. Located in a prime area with great amenities.
+B-0156,Miami,Loft,290673.97,2,4.0,859,2024-07-14,Sample property 156 from Source B. Located in a prime area with great amenities.
+B-0157,Los Angeles,Apartment,344127.43,6,1.0,1768,2024-10-08,Sample property 157 from Source B. Located in a prime area with great amenities.
+B-0158,Atlanta,Townhouse,1459956.65,4,2.5,1280,2025-04-17,Sample property 158 from Source B. Located in a prime area with great amenities.
+B-0159,Portland,Apartment,576008.41,6,2.5,3308,2025-05-16,Sample property 159 from Source B. Located in a prime area with great amenities.
+B-0160,Dallas,Townhouse,1575212.32,3,1.0,1971,2022-01-16,Sample property 160 from Source B. Located in a prime area with great amenities.
+B-0161,Miami,House,828981.75,5,2.0,2366,2023-11-22,Sample property 161 from Source B. Located in a prime area with great amenities.
+B-0162,Phoenix,Apartment,935232.08,2,3.0,2607,2025-06-27,Sample property 162 from Source B. Located in a prime area with great amenities.
+B-0163,Dallas,Townhouse,554756.34,2,1.5,1922,2024-05-12,Sample property 163 from Source B. Located in a prime area with great amenities.
+B-0164,Portland,House,254339.59,4,3.0,1846,2022-02-11,Sample property 164 from Source B. Located in a prime area with great amenities.
+B-0165,Los Angeles,Loft,641711.51,4,2.5,1756,2023-03-15,Sample property 165 from Source B. Located in a prime area with great amenities.
+B-0166,Portland,Loft,288620.73,1,2.5,1875,2023-12-06,Sample property 166 from Source B. Located in a prime area with great amenities.
+B-0167,Los Angeles,House,1386062.44,4,1.5,2912,2023-07-14,Sample property 167 from Source B. Located in a prime area with great amenities.
+B-0168,Dallas,Townhouse,744692.97,2,2.5,2205,2024-12-07,Sample property 168 from Source B. Located in a prime area with great amenities.
+B-0169,Miami,Apartment,1762723.6,3,2.5,2446,2025-03-18,Sample property 169 from Source B. Located in a prime area with great amenities.
+B-0170,San Diego,Apartment,1494054.19,4,3.0,1568,2023-12-17,Sample property 170 from Source B. Located in a prime area with great amenities.
+B-0171,Los Angeles,Loft,1631843.08,6,2.5,2752,2022-08-06,Sample property 171 from Source B. Located in a prime area with great amenities.
+B-0172,Portland,Apartment,1551671.26,6,3.0,3047,2022-07-24,Sample property 172 from Source B. Located in a prime area with great amenities.
+B-0173,San Diego,House,525202.83,4,2.5,835,2022-10-15,Sample property 173 from Source B. Located in a prime area with great amenities.
+B-0174,Dallas,Condo,1412617.12,5,1.0,1392,2025-11-13,Sample property 174 from Source B. Located in a prime area with great amenities.
+B-0175,Phoenix,House,1300626.33,6,1.5,604,2024-12-21,Sample property 175 from Source B. Located in a prime area with great amenities.
+B-0176,San Diego,House,1078179.49,3,3.5,603,2022-08-14,Sample property 176 from Source B. Located in a prime area with great amenities.
+B-0177,Miami,Condo,823029.23,4,1.5,1163,2022-04-17,Sample property 177 from Source B. Located in a prime area with great amenities.
+B-0178,San Diego,Townhouse,1169124.03,3,1.5,1720,2025-06-03,Sample property 178 from Source B. Located in a prime area with great amenities.
+B-0179,Atlanta,Apartment,1547518.19,3,4.0,3198,2022-05-01,Sample property 179 from Source B. Located in a prime area with great amenities.
+B-0180,Los Angeles,House,336090.66,4,4.0,1187,2022-02-06,Sample property 180 from Source B. Located in a prime area with great amenities.
+B-0181,San Diego,Loft,1218514.22,3,4.0,1694,2024-08-04,Sample property 181 from Source B. Located in a prime area with great amenities.
+B-0182,Phoenix,House,671735.14,6,1.0,2578,2025-01-25,Sample property 182 from Source B. Located in a prime area with great amenities.
+B-0183,Los Angeles,House,925064.26,3,2.5,2918,2023-06-07,Sample property 183 from Source B. Located in a prime area with great amenities.
+B-0184,Miami,House,519765.58,2,3.0,2260,2022-04-12,Sample property 184 from Source B. Located in a prime area with great amenities.
+B-0185,Portland,Townhouse,476716.49,5,2.5,2732,2025-05-08,Sample property 185 from Source B. Located in a prime area with great amenities.
+B-0186,Miami,Loft,1504318.68,1,1.5,3299,2024-10-10,Sample property 186 from Source B. Located in a prime area with great amenities.
+B-0187,Phoenix,Apartment,1450983.71,3,3.0,3012,2022-04-21,Sample property 187 from Source B. Located in a prime area with great amenities.
+B-0188,Los Angeles,Apartment,1086576.58,1,2.5,1833,2025-12-16,Sample property 188 from Source B. Located in a prime area with great amenities.
+B-0189,Dallas,Apartment,1746171.1,5,1.0,2230,2023-08-15,Sample property 189 from Source B. Located in a prime area with great amenities.
+B-0190,Phoenix,Townhouse,874174.37,6,2.0,2030,2022-12-18,Sample property 190 from Source B. Located in a prime area with great amenities.
+B-0191,Phoenix,Condo,1413330.32,5,3.5,2323,2022-02-23,Sample property 191 from Source B. Located in a prime area with great amenities.
+B-0192,Miami,Townhouse,1654707.0,1,2.5,1337,2025-11-02,Sample property 192 from Source B. Located in a prime area with great amenities.
+B-0193,Portland,Townhouse,1621334.22,1,2.0,3234,2022-12-05,Sample property 193 from Source B. Located in a prime area with great amenities.
+B-0194,Dallas,House,258867.0,3,3.0,1828,2025-12-21,Sample property 194 from Source B. Located in a prime area with great amenities.
+B-0195,Los Angeles,Condo,1283952.4,4,1.0,1876,2024-01-23,Sample property 195 from Source B. Located in a prime area with great amenities.
+B-0196,Phoenix,Apartment,1164186.62,4,2.0,1398,2025-12-27,Sample property 196 from Source B. Located in a prime area with great amenities.
+B-0197,Phoenix,House,753655.02,5,1.0,835,2023-09-04,Sample property 197 from Source B. Located in a prime area with great amenities.
+B-0198,San Diego,Apartment,789491.53,5,3.5,1224,2023-11-11,Sample property 198 from Source B. Located in a prime area with great amenities.
+B-0199,Phoenix,Loft,469513.67,2,2.0,2954,2023-06-09,Sample property 199 from Source B. Located in a prime area with great amenities.
+B-0200,Los Angeles,Loft,1292561.88,5,2.0,3185,2022-05-24,Sample property 200 from Source B. Located in a prime area with great amenities.
+B-0201,Atlanta,Loft,1613852.23,1,2.0,2115,2025-01-20,Sample property 201 from Source B. Located in a prime area with great amenities.
+B-0202,Portland,Loft,1199813.52,2,1.5,3155,2023-10-25,Sample property 202 from Source B. Located in a prime area with great amenities.
+B-0203,Miami,Condo,645822.95,2,2.5,3715,2024-12-20,Sample property 203 from Source B. Located in a prime area with great amenities.
+B-0204,Phoenix,Condo,984687.86,2,2.5,3338,2025-09-24,Sample property 204 from Source B. Located in a prime area with great amenities.
+B-0205,San Diego,Loft,344487.65,3,3.0,2987,2022-12-13,Sample property 205 from Source B. Located in a prime area with great amenities.
+B-0206,San Diego,House,1711266.6,6,2.0,787,2024-09-01,Sample property 206 from Source B. Located in a prime area with great amenities.
+B-0207,Atlanta,Condo,1487303.38,4,3.5,3245,2024-11-01,Sample property 207 from Source B. Located in a prime area with great amenities.
+B-0208,San Diego,Townhouse,1043114.18,2,1.0,912,2025-11-20,Sample property 208 from Source B. Located in a prime area with great amenities.
+B-0209,Miami,Apartment,1446262.97,1,2.0,2089,2024-03-13,Sample property 209 from Source B. Located in a prime area with great amenities.
+B-0210,Portland,Condo,343285.69,6,1.5,1325,2025-03-06,Sample property 210 from Source B. Located in a prime area with great amenities.
+B-0211,Phoenix,House,587617.51,5,2.0,1767,2022-11-18,Sample property 211 from Source B. Located in a prime area with great amenities.
+B-0212,Miami,House,1032611.2,1,3.5,3470,2023-06-04,Sample property 212 from Source B. Located in a prime area with great amenities.
+B-0213,Portland,House,652764.08,5,2.5,868,2025-02-19,Sample property 213 from Source B. Located in a prime area with great amenities.
+B-0214,Dallas,Condo,1590669.23,3,2.5,1185,2022-08-19,Sample property 214 from Source B. Located in a prime area with great amenities.
+B-0215,Phoenix,Loft,917623.02,1,1.0,2769,2025-05-01,Sample property 215 from Source B. Located in a prime area with great amenities.
+B-0216,Dallas,Apartment,1762967.63,2,1.5,888,2023-11-07,Sample property 216 from Source B. Located in a prime area with great amenities.
+B-0217,Miami,Townhouse,1602975.99,5,2.0,2838,2023-11-23,Sample property 217 from Source B. Located in a prime area with great amenities.
+B-0218,Dallas,House,351233.16,5,3.5,3026,2022-03-19,Sample property 218 from Source B. Located in a prime area with great amenities.
+B-0219,Phoenix,Apartment,585973.1,2,3.0,1875,2024-09-14,Sample property 219 from Source B. Located in a prime area with great amenities.
+B-0220,Miami,Loft,1537339.85,6,2.5,3254,2024-05-16,Sample property 220 from Source B. Located in a prime area with great amenities.
+B-0221,Portland,House,858873.7,3,2.0,1476,2023-03-03,Sample property 221 from Source B. Located in a prime area with great amenities.
+B-0222,Miami,House,1736967.49,4,1.0,1271,2025-07-21,Sample property 222 from Source B. Located in a prime area with great amenities.
+B-0223,Atlanta,Loft,730758.59,2,3.0,1485,2023-03-04,Sample property 223 from Source B. Located in a prime area with great amenities.
+B-0224,Portland,House,1049277.81,3,4.0,2661,2022-08-23,Sample property 224 from Source B. Located in a prime area with great amenities.
+B-0225,Los Angeles,Apartment,942581.24,5,1.5,2592,2022-08-25,Sample property 225 from Source B. Located in a prime area with great amenities.
+B-0226,Portland,Apartment,333731.74,5,3.5,2753,2024-12-07,Sample property 226 from Source B. Located in a prime area with great amenities.
+B-0227,Miami,Condo,923475.96,3,2.0,2483,2023-08-19,Sample property 227 from Source B. Located in a prime area with great amenities.
+B-0228,Portland,House,1653530.75,3,3.0,968,2022-11-08,Sample property 228 from Source B. Located in a prime area with great amenities.
+B-0229,Portland,Townhouse,1118827.5,4,3.0,1795,2023-01-18,Sample property 229 from Source B. Located in a prime area with great amenities.
+B-0230,Atlanta,Loft,1362359.35,1,2.5,3787,2022-08-07,Sample property 230 from Source B. Located in a prime area with great amenities.
+B-0231,Phoenix,Townhouse,1120712.51,6,2.0,3228,2022-03-03,Sample property 231 from Source B. Located in a prime area with great amenities.
+B-0232,Atlanta,House,459523.37,4,3.0,1377,2023-07-05,Sample property 232 from Source B. Located in a prime area with great amenities.
+B-0233,Phoenix,Condo,593041.84,1,1.0,636,2023-01-13,Sample property 233 from Source B. Located in a prime area with great amenities.
+B-0234,Miami,Apartment,1686921.61,6,4.0,673,2025-03-01,Sample property 234 from Source B. Located in a prime area with great amenities.
+B-0235,Phoenix,Apartment,898960.25,3,2.0,1647,2024-10-11,Sample property 235 from Source B. Located in a prime area with great amenities.
+B-0236,Atlanta,Townhouse,542157.42,5,2.5,856,2025-07-03,Sample property 236 from Source B. Located in a prime area with great amenities.
+B-0237,Phoenix,Condo,1024682.19,6,3.0,3751,2023-01-18,Sample property 237 from Source B. Located in a prime area with great amenities.
+B-0238,San Diego,Apartment,795004.81,6,3.5,2469,2023-07-13,Sample property 238 from Source B. Located in a prime area with great amenities.
+B-0239,Portland,Townhouse,992504.13,2,2.5,2837,2023-04-10,Sample property 239 from Source B. Located in a prime area with great amenities.
+B-0240,San Diego,Townhouse,399861.04,5,1.5,892,2022-07-19,Sample property 240 from Source B. Located in a prime area with great amenities.
+B-0241,Los Angeles,House,862435.46,2,3.5,1025,2022-08-21,Sample property 241 from Source B. Located in a prime area with great amenities.
+B-0242,Atlanta,Apartment,1169398.93,1,1.0,741,2024-12-09,Sample property 242 from Source B. Located in a prime area with great amenities.
+B-0243,Atlanta,House,526806.78,4,1.0,1393,2023-04-04,Sample property 243 from Source B. Located in a prime area with great amenities.
+B-0244,Dallas,House,579391.3,2,3.0,1124,2025-04-21,Sample property 244 from Source B. Located in a prime area with great amenities.
+B-0245,Phoenix,House,1514185.34,4,2.5,770,2022-09-23,Sample property 245 from Source B. Located in a prime area with great amenities.
+B-0246,Portland,Apartment,1562355.13,1,1.5,3354,2022-04-04,Sample property 246 from Source B. Located in a prime area with great amenities.
+B-0247,Los Angeles,Apartment,1698420.04,5,2.5,2852,2022-07-04,Sample property 247 from Source B. Located in a prime area with great amenities.
+B-0248,Phoenix,Townhouse,758359.72,1,2.5,1703,2023-09-09,Sample property 248 from Source B. Located in a prime area with great amenities.
+B-0249,Miami,Townhouse,1459495.4,1,3.5,2029,2022-04-22,Sample property 249 from Source B. Located in a prime area with great amenities.
+B-0250,Portland,Loft,1187341.82,4,1.5,1563,2023-01-22,Sample property 250 from Source B. Located in a prime area with great amenities.
+B-0251,Phoenix,Loft,1169027.02,4,2.5,3342,2025-07-20,Sample property 251 from Source B. Located in a prime area with great amenities.
+B-0252,Portland,House,457041.95,2,1.0,706,2022-11-07,Sample property 252 from Source B. Located in a prime area with great amenities.
+B-0253,Los Angeles,Townhouse,875470.79,5,1.5,3755,2024-05-19,Sample property 253 from Source B. Located in a prime area with great amenities.
+B-0254,San Diego,Condo,544069.53,3,2.5,1163,2025-09-25,Sample property 254 from Source B. Located in a prime area with great amenities.
+B-0255,Miami,Loft,448947.44,2,4.0,2070,2025-12-02,Sample property 255 from Source B. Located in a prime area with great amenities.
+B-0256,Los Angeles,House,1505885.15,1,4.0,3393,2022-04-25,Sample property 256 from Source B. Located in a prime area with great amenities.
+B-0257,Dallas,Apartment,1030397.53,5,4.0,3616,2023-11-15,Sample property 257 from Source B. Located in a prime area with great amenities.
+B-0258,Miami,House,1349396.1,2,4.0,2082,2024-03-21,Sample property 258 from Source B. Located in a prime area with great amenities.
+B-0259,Atlanta,House,1664274.04,4,3.0,2850,2023-10-10,Sample property 259 from Source B. Located in a prime area with great amenities.
+B-0260,Miami,Townhouse,902538.77,4,3.5,2829,2024-09-13,Sample property 260 from Source B. Located in a prime area with great amenities.
+B-0261,Dallas,Townhouse,1630599.91,2,2.0,1177,2023-08-06,Sample property 261 from Source B. Located in a prime area with great amenities.
+B-0262,Atlanta,Townhouse,618893.57,3,3.5,2789,2023-11-04,Sample property 262 from Source B. Located in a prime area with great amenities.
+B-0263,Dallas,Townhouse,1212467.49,4,1.5,1136,2024-01-28,Sample property 263 from Source B. Located in a prime area with great amenities.
+B-0264,Phoenix,House,1232658.38,2,1.0,1848,2025-03-06,Sample property 264 from Source B. Located in a prime area with great amenities.
+B-0265,San Diego,House,1116871.48,3,2.0,1255,2025-04-17,Sample property 265 from Source B. Located in a prime area with great amenities.
+B-0266,San Diego,Apartment,446924.64,4,2.0,2522,2024-09-13,Sample property 266 from Source B. Located in a prime area with great amenities.
+B-0267,Miami,Loft,798226.68,6,2.5,3064,2022-07-26,Sample property 267 from Source B. Located in a prime area with great amenities.
+B-0268,Atlanta,Loft,1659065.92,6,4.0,793,2025-09-24,Sample property 268 from Source B. Located in a prime area with great amenities.
+B-0269,Portland,Condo,1059017.11,2,3.5,1692,2024-06-13,Sample property 269 from Source B. Located in a prime area with great amenities.
+B-0270,Dallas,Townhouse,267248.61,4,4.0,3305,2025-05-09,Sample property 270 from Source B. Located in a prime area with great amenities.
+B-0271,San Diego,House,1471347.88,2,1.0,1842,2023-07-07,Sample property 271 from Source B. Located in a prime area with great amenities.
+B-0272,Portland,Loft,854657.4,5,1.0,3137,2022-09-13,Sample property 272 from Source B. Located in a prime area with great amenities.
+B-0273,Phoenix,Apartment,696040.3,1,4.0,3777,2022-11-05,Sample property 273 from Source B. Located in a prime area with great amenities.
+B-0274,Los Angeles,Condo,1581057.67,2,1.5,2661,2022-09-09,Sample property 274 from Source B. Located in a prime area with great amenities.
+B-0275,Los Angeles,Loft,967868.78,1,2.0,3725,2023-04-12,Sample property 275 from Source B. Located in a prime area with great amenities.
+B-0276,Miami,Townhouse,1317690.17,1,4.0,2259,2022-12-03,Sample property 276 from Source B. Located in a prime area with great amenities.
+B-0277,Los Angeles,House,934399.55,1,3.5,2631,2023-03-13,Sample property 277 from Source B. Located in a prime area with great amenities.
+B-0278,Miami,Loft,1145721.66,6,2.5,849,2023-02-27,Sample property 278 from Source B. Located in a prime area with great amenities.
+B-0279,Phoenix,House,1746158.1,6,4.0,1181,2022-05-17,Sample property 279 from Source B. Located in a prime area with great amenities.
+B-0280,Miami,Townhouse,259278.8,5,3.5,3510,2022-12-18,Sample property 280 from Source B. Located in a prime area with great amenities.
+B-0281,Portland,Townhouse,939363.57,2,2.0,1551,2023-03-09,Sample property 281 from Source B. Located in a prime area with great amenities.
+B-0282,Miami,Condo,1187116.52,6,1.0,3365,2023-07-26,Sample property 282 from Source B. Located in a prime area with great amenities.
+B-0283,San Diego,Loft,1342651.96,3,1.0,2791,2025-12-18,Sample property 283 from Source B. Located in a prime area with great amenities.
+B-0284,Portland,Condo,1086906.38,2,4.0,2073,2023-04-12,Sample property 284 from Source B. Located in a prime area with great amenities.
+B-0285,Los Angeles,Townhouse,907664.62,2,4.0,2842,2024-09-19,Sample property 285 from Source B. Located in a prime area with great amenities.
+B-0286,Miami,Loft,1599701.59,5,3.5,3148,2022-06-03,Sample property 286 from Source B. Located in a prime area with great amenities.
+B-0287,Miami,Loft,888036.47,2,3.0,3019,2024-09-16,Sample property 287 from Source B. Located in a prime area with great amenities.
+B-0288,Phoenix,House,392494.54,3,2.0,2226,2023-04-20,Sample property 288 from Source B. Located in a prime area with great amenities.
+B-0289,Dallas,Apartment,1672048.71,3,2.0,1852,2025-06-26,Sample property 289 from Source B. Located in a prime area with great amenities.
+B-0290,Portland,House,1019916.72,2,2.5,2257,2023-02-03,Sample property 290 from Source B. Located in a prime area with great amenities.
+B-0291,Los Angeles,Condo,1749086.79,2,1.0,2795,2023-10-15,Sample property 291 from Source B. Located in a prime area with great amenities.
+B-0292,Dallas,Apartment,434084.79,6,1.5,1866,2022-03-27,Sample property 292 from Source B. Located in a prime area with great amenities.
+B-0293,Miami,Loft,621267.29,1,2.5,2132,2025-04-15,Sample property 293 from Source B. Located in a prime area with great amenities.
+B-0294,Portland,House,1112891.47,5,3.5,1989,2023-12-22,Sample property 294 from Source B. Located in a prime area with great amenities.
+B-0295,Atlanta,House,562776.43,4,3.5,3426,2024-09-25,Sample property 295 from Source B. Located in a prime area with great amenities.
+B-0296,Portland,Apartment,952806.75,3,3.5,2174,2022-11-09,Sample property 296 from Source B. Located in a prime area with great amenities.
+B-0297,Atlanta,House,292663.92,2,2.5,1474,2025-10-22,Sample property 297 from Source B. Located in a prime area with great amenities.
+B-0298,Los Angeles,Loft,1467565.32,3,4.0,3674,2025-10-02,Sample property 298 from Source B. Located in a prime area with great amenities.
+B-0299,San Diego,Townhouse,378111.19,4,4.0,3326,2023-08-15,Sample property 299 from Source B. Located in a prime area with great amenities.
+B-0300,Dallas,House,802940.4,4,3.0,3152,2025-12-22,Sample property 300 from Source B. Located in a prime area with great amenities.
+B-0301,Portland,Townhouse,1533863.97,6,1.5,3487,2024-04-10,Sample property 301 from Source B. Located in a prime area with great amenities.
+B-0302,San Diego,Townhouse,437154.77,3,2.0,840,2025-07-06,Sample property 302 from Source B. Located in a prime area with great amenities.
+B-0303,Atlanta,Condo,344614.89,2,1.0,657,2025-11-01,Sample property 303 from Source B. Located in a prime area with great amenities.
+B-0304,Atlanta,Townhouse,1531758.58,2,3.0,1403,2023-06-22,Sample property 304 from Source B. Located in a prime area with great amenities.
+B-0305,Los Angeles,Loft,684973.56,2,1.5,854,2022-04-14,Sample property 305 from Source B. Located in a prime area with great amenities.
+B-0306,Miami,Apartment,1428420.24,2,3.0,1642,2025-09-01,Sample property 306 from Source B. Located in a prime area with great amenities.
+B-0307,Atlanta,House,1509457.98,5,3.5,1761,2022-11-05,Sample property 307 from Source B. Located in a prime area with great amenities.
+B-0308,Atlanta,Townhouse,662341.6,4,1.5,2867,2024-06-15,Sample property 308 from Source B. Located in a prime area with great amenities.
+B-0309,Portland,Townhouse,1601987.27,4,4.0,1927,2023-05-27,Sample property 309 from Source B. Located in a prime area with great amenities.
+B-0310,Miami,Townhouse,1369217.09,4,2.5,1203,2024-04-25,Sample property 310 from Source B. Located in a prime area with great amenities.
+B-0311,San Diego,Apartment,327512.24,4,4.0,3797,2024-07-01,Sample property 311 from Source B. Located in a prime area with great amenities.
+B-0312,Portland,Loft,257032.76,6,4.0,2891,2023-09-03,Sample property 312 from Source B. Located in a prime area with great amenities.
+B-0313,Portland,Apartment,1227898.24,3,3.0,3147,2022-05-23,Sample property 313 from Source B. Located in a prime area with great amenities.
+B-0314,Miami,Condo,464265.73,3,2.5,2895,2024-12-10,Sample property 314 from Source B. Located in a prime area with great amenities.
+B-0315,Dallas,Loft,1141795.39,4,4.0,2007,2025-06-03,Sample property 315 from Source B. Located in a prime area with great amenities.
+B-0316,Atlanta,Condo,887533.19,3,3.0,2099,2023-04-17,Sample property 316 from Source B. Located in a prime area with great amenities.
+B-0317,Portland,Loft,1000491.86,5,1.5,1044,2025-02-01,Sample property 317 from Source B. Located in a prime area with great amenities.
+B-0318,Miami,Apartment,1668279.31,4,3.5,1747,2024-05-26,Sample property 318 from Source B. Located in a prime area with great amenities.
+B-0319,San Diego,Loft,1100827.46,3,3.5,2494,2023-07-16,Sample property 319 from Source B. Located in a prime area with great amenities.
+B-0320,San Diego,Townhouse,1276840.76,3,2.5,2011,2024-07-07,Sample property 320 from Source B. Located in a prime area with great amenities.
+B-0321,Miami,Townhouse,1053052.83,1,1.5,3313,2022-01-17,Sample property 321 from Source B. Located in a prime area with great amenities.
+B-0322,San Diego,Apartment,1410753.26,3,1.0,3472,2022-02-24,Sample property 322 from Source B. Located in a prime area with great amenities.
+B-0323,Portland,Apartment,1708659.34,6,1.0,2192,2024-03-05,Sample property 323 from Source B. Located in a prime area with great amenities.
+B-0324,Los Angeles,Loft,871327.48,2,3.0,1590,2024-05-04,Sample property 324 from Source B. Located in a prime area with great amenities.
+B-0325,San Diego,Loft,328738.98,6,1.5,3762,2022-04-16,Sample property 325 from Source B. Located in a prime area with great amenities.
+B-0326,Dallas,Loft,1365225.19,3,1.5,718,2023-03-07,Sample property 326 from Source B. Located in a prime area with great amenities.
+B-0327,Miami,Loft,1182062.04,5,1.0,2567,2023-06-21,Sample property 327 from Source B. Located in a prime area with great amenities.
+B-0328,Phoenix,Condo,1137596.07,4,2.0,1864,2024-02-07,Sample property 328 from Source B. Located in a prime area with great amenities.
+B-0329,Dallas,Apartment,1479416.34,4,1.5,3190,2025-10-17,Sample property 329 from Source B. Located in a prime area with great amenities.
+B-0330,Atlanta,House,893278.27,2,1.5,1103,2022-11-20,Sample property 330 from Source B. Located in a prime area with great amenities.
+B-0331,Los Angeles,House,1301764.06,1,3.5,2233,2022-01-20,Sample property 331 from Source B. Located in a prime area with great amenities.
+B-0332,San Diego,Loft,1185828.66,3,2.5,2662,2022-06-23,Sample property 332 from Source B. Located in a prime area with great amenities.
+B-0333,San Diego,House,775108.56,3,2.0,2359,2022-01-22,Sample property 333 from Source B. Located in a prime area with great amenities.
+B-0334,Atlanta,Condo,603344.39,2,3.0,2185,2023-04-10,Sample property 334 from Source B. Located in a prime area with great amenities.
+B-0335,Portland,Condo,1553554.4,3,1.5,3628,2023-07-19,Sample property 335 from Source B. Located in a prime area with great amenities.
+B-0336,Dallas,House,1088943.2,4,3.5,2991,2024-09-27,Sample property 336 from Source B. Located in a prime area with great amenities.
+B-0337,Phoenix,Apartment,809055.37,1,4.0,2916,2023-01-25,Sample property 337 from Source B. Located in a prime area with great amenities.
+B-0338,Phoenix,Condo,755176.92,1,1.0,1921,2025-01-12,Sample property 338 from Source B. Located in a prime area with great amenities.
+B-0339,Dallas,Apartment,1796012.04,2,2.5,3251,2025-04-18,Sample property 339 from Source B. Located in a prime area with great amenities.
+B-0340,Los Angeles,Townhouse,826741.87,3,1.5,2591,2025-03-03,Sample property 340 from Source B. Located in a prime area with great amenities.
+B-0341,Los Angeles,Townhouse,1485246.85,2,1.5,2542,2023-11-15,Sample property 341 from Source B. Located in a prime area with great amenities.
+B-0342,Los Angeles,Townhouse,581464.57,6,3.0,1797,2024-09-24,Sample property 342 from Source B. Located in a prime area with great amenities.
+B-0343,San Diego,Townhouse,1605601.05,6,2.5,2242,2022-09-27,Sample property 343 from Source B. Located in a prime area with great amenities.
+B-0344,Miami,Townhouse,1071636.65,1,2.5,3645,2025-09-06,Sample property 344 from Source B. Located in a prime area with great amenities.
+B-0345,Miami,Townhouse,697341.19,4,1.0,2597,2023-04-08,Sample property 345 from Source B. Located in a prime area with great amenities.
+B-0346,San Diego,Townhouse,575018.98,3,2.0,2640,2024-09-23,Sample property 346 from Source B. Located in a prime area with great amenities.
+B-0347,Portland,Loft,367702.49,6,1.0,3645,2023-02-27,Sample property 347 from Source B. Located in a prime area with great amenities.
+B-0348,San Diego,House,1628479.73,4,4.0,2525,2022-03-09,Sample property 348 from Source B. Located in a prime area with great amenities.
+B-0349,Dallas,House,1645505.5,2,2.0,2521,2022-07-26,Sample property 349 from Source B. Located in a prime area with great amenities.
+B-0350,Atlanta,Apartment,312660.77,3,2.5,3446,2024-12-15,Sample property 350 from Source B. Located in a prime area with great amenities.
+B-0351,Atlanta,Loft,1574544.6,1,2.0,1451,2025-10-04,Sample property 351 from Source B. Located in a prime area with great amenities.
+B-0352,Miami,Townhouse,1303555.42,4,1.0,2159,2024-10-06,Sample property 352 from Source B. Located in a prime area with great amenities.
+B-0353,Phoenix,Condo,1328844.85,2,1.0,1294,2022-10-12,Sample property 353 from Source B. Located in a prime area with great amenities.
+B-0354,Dallas,Condo,1698760.77,3,3.5,1987,2022-03-11,Sample property 354 from Source B. Located in a prime area with great amenities.
+B-0355,Portland,Apartment,1324948.65,1,3.0,2390,2024-02-01,Sample property 355 from Source B. Located in a prime area with great amenities.
+B-0356,Los Angeles,House,297898.57,1,1.5,3124,2023-10-26,Sample property 356 from Source B. Located in a prime area with great amenities.
+B-0357,San Diego,House,1351997.19,1,3.0,2575,2025-06-13,Sample property 357 from Source B. Located in a prime area with great amenities.
+B-0358,Dallas,Apartment,564578.17,1,2.5,2208,2023-04-07,Sample property 358 from Source B. Located in a prime area with great amenities.
+B-0359,Los Angeles,Townhouse,297409.89,3,3.0,672,2022-12-10,Sample property 359 from Source B. Located in a prime area with great amenities.
+B-0360,Portland,Apartment,398574.71,3,3.5,2236,2022-04-17,Sample property 360 from Source B. Located in a prime area with great amenities.
+B-0361,Los Angeles,Condo,1180306.34,5,1.5,950,2023-06-24,Sample property 361 from Source B. Located in a prime area with great amenities.
+B-0362,Los Angeles,House,327709.51,2,1.0,2775,2024-04-09,Sample property 362 from Source B. Located in a prime area with great amenities.
+B-0363,Los Angeles,Condo,1365267.56,4,1.0,2520,2023-11-13,Sample property 363 from Source B. Located in a prime area with great amenities.
+B-0364,Miami,Loft,1213072.17,6,1.5,2878,2024-08-06,Sample property 364 from Source B. Located in a prime area with great amenities.
+B-0365,San Diego,House,927331.07,2,2.0,2937,2025-05-06,Sample property 365 from Source B. Located in a prime area with great amenities.
+B-0366,Los Angeles,Condo,374881.79,3,2.5,1613,2023-10-28,Sample property 366 from Source B. Located in a prime area with great amenities.
+B-0367,Atlanta,House,1004625.85,2,2.5,3201,2024-11-21,Sample property 367 from Source B. Located in a prime area with great amenities.
+B-0368,Miami,Condo,1242700.01,1,3.5,3587,2022-12-26,Sample property 368 from Source B. Located in a prime area with great amenities.
+B-0369,Los Angeles,House,1500428.53,3,4.0,3574,2025-04-19,Sample property 369 from Source B. Located in a prime area with great amenities.
+B-0370,San Diego,Townhouse,1386722.43,5,3.5,883,2025-10-10,Sample property 370 from Source B. Located in a prime area with great amenities.
+B-0371,Atlanta,Loft,378426.91,1,1.5,1362,2023-10-24,Sample property 371 from Source B. Located in a prime area with great amenities.
+B-0372,San Diego,Apartment,1001166.29,4,4.0,3023,2023-11-13,Sample property 372 from Source B. Located in a prime area with great amenities.
+B-0373,Los Angeles,Apartment,1778975.74,4,2.5,2336,2022-03-17,Sample property 373 from Source B. Located in a prime area with great amenities.
+B-0374,Atlanta,Condo,1253346.71,1,3.0,775,2022-04-26,Sample property 374 from Source B. Located in a prime area with great amenities.
+B-0375,Los Angeles,Condo,399038.79,1,4.0,2264,2024-05-14,Sample property 375 from Source B. Located in a prime area with great amenities.
+B-0376,Los Angeles,Loft,1622093.65,1,3.0,1543,2024-04-17,Sample property 376 from Source B. Located in a prime area with great amenities.
+B-0377,Atlanta,Apartment,1303436.65,6,3.5,2561,2024-06-24,Sample property 377 from Source B. Located in a prime area with great amenities.
+B-0378,Portland,Townhouse,1412026.57,3,2.5,1722,2024-09-14,Sample property 378 from Source B. Located in a prime area with great amenities.
+B-0379,Dallas,Apartment,1146943.89,4,1.0,3234,2023-06-19,Sample property 379 from Source B. Located in a prime area with great amenities.
+B-0380,Atlanta,Apartment,1626526.44,5,1.5,1353,2023-12-02,Sample property 380 from Source B. Located in a prime area with great amenities.
+B-0381,Miami,House,974056.88,1,1.5,660,2023-01-14,Sample property 381 from Source B. Located in a prime area with great amenities.
+B-0382,Los Angeles,Condo,1260325.31,2,1.5,718,2023-04-05,Sample property 382 from Source B. Located in a prime area with great amenities.
+B-0383,Dallas,Loft,1495066.61,2,3.0,2654,2022-02-23,Sample property 383 from Source B. Located in a prime area with great amenities.
+B-0384,Dallas,Townhouse,599252.89,2,3.0,2488,2025-10-02,Sample property 384 from Source B. Located in a prime area with great amenities.
+B-0385,Miami,Apartment,1566319.48,2,1.0,2147,2022-08-19,Sample property 385 from Source B. Located in a prime area with great amenities.
+B-0386,Phoenix,Townhouse,1669872.16,4,2.5,1178,2022-07-11,Sample property 386 from Source B. Located in a prime area with great amenities.
+B-0387,Dallas,House,1585680.43,4,2.0,2109,2024-12-08,Sample property 387 from Source B. Located in a prime area with great amenities.
+B-0388,San Diego,Townhouse,862897.35,5,2.0,1939,2022-02-05,Sample property 388 from Source B. Located in a prime area with great amenities.
+B-0389,Miami,Townhouse,1502318.99,3,1.5,3003,2022-04-16,Sample property 389 from Source B. Located in a prime area with great amenities.
+B-0390,Miami,House,1321098.4,4,3.0,1340,2022-09-24,Sample property 390 from Source B. Located in a prime area with great amenities.
+B-0391,San Diego,Apartment,1791114.04,5,2.5,2117,2022-05-20,Sample property 391 from Source B. Located in a prime area with great amenities.
+B-0392,San Diego,Townhouse,1414084.2,1,2.0,2421,2024-05-22,Sample property 392 from Source B. Located in a prime area with great amenities.
+B-0393,San Diego,Townhouse,1612013.86,5,4.0,3078,2023-11-17,Sample property 393 from Source B. Located in a prime area with great amenities.
+B-0394,Dallas,Townhouse,1122097.71,6,3.5,2070,2025-07-18,Sample property 394 from Source B. Located in a prime area with great amenities.
+B-0395,Los Angeles,Apartment,983418.86,1,4.0,953,2022-06-19,Sample property 395 from Source B. Located in a prime area with great amenities.
+B-0396,Miami,Townhouse,1778527.05,2,3.0,3702,2024-02-26,Sample property 396 from Source B. Located in a prime area with great amenities.
+B-0397,Los Angeles,Apartment,442688.7,4,1.5,2243,2025-12-03,Sample property 397 from Source B. Located in a prime area with great amenities.
+B-0398,Los Angeles,Townhouse,1116649.06,5,1.0,2760,2025-09-04,Sample property 398 from Source B. Located in a prime area with great amenities.
+B-0399,Miami,Townhouse,1741499.65,1,1.0,2879,2022-07-18,Sample property 399 from Source B. Located in a prime area with great amenities.
+B-0400,San Diego,Condo,1206914.52,4,4.0,991,2022-08-02,Sample property 400 from Source B. Located in a prime area with great amenities.
+B-0401,Portland,Apartment,870088.47,3,3.0,804,2025-02-22,Sample property 401 from Source B. Located in a prime area with great amenities.
+B-0402,Dallas,House,373458.08,4,3.0,651,2023-12-08,Sample property 402 from Source B. Located in a prime area with great amenities.
+B-0403,Portland,Townhouse,369945.87,5,4.0,2008,2022-10-22,Sample property 403 from Source B. Located in a prime area with great amenities.
+B-0404,Atlanta,Loft,1163782.0,2,3.5,866,2022-04-09,Sample property 404 from Source B. Located in a prime area with great amenities.
+B-0405,Phoenix,House,987418.53,1,3.5,2889,2022-08-24,Sample property 405 from Source B. Located in a prime area with great amenities.
+B-0406,Miami,House,1612196.67,5,3.5,701,2025-11-10,Sample property 406 from Source B. Located in a prime area with great amenities.
+B-0407,Dallas,Apartment,1426342.51,3,1.5,1512,2023-02-02,Sample property 407 from Source B. Located in a prime area with great amenities.
+B-0408,Phoenix,Townhouse,1103599.33,3,4.0,620,2023-07-06,Sample property 408 from Source B. Located in a prime area with great amenities.
+B-0409,Atlanta,Apartment,655319.47,6,4.0,3619,2023-02-14,Sample property 409 from Source B. Located in a prime area with great amenities.
+B-0410,San Diego,Loft,1378271.79,1,1.5,3011,2022-02-27,Sample property 410 from Source B. Located in a prime area with great amenities.
+B-0411,Atlanta,House,347735.47,2,3.5,2931,2022-02-07,Sample property 411 from Source B. Located in a prime area with great amenities.
+B-0412,San Diego,House,814601.69,2,2.5,963,2025-01-21,Sample property 412 from Source B. Located in a prime area with great amenities.
+B-0413,Los Angeles,House,1023350.8,2,4.0,2107,2022-08-11,Sample property 413 from Source B. Located in a prime area with great amenities.
+B-0414,Phoenix,Townhouse,730671.49,1,2.0,2456,2022-10-02,Sample property 414 from Source B. Located in a prime area with great amenities.
+B-0415,Los Angeles,Apartment,461266.43,5,4.0,3701,2022-08-10,Sample property 415 from Source B. Located in a prime area with great amenities.
+B-0416,Dallas,Townhouse,1167860.56,2,3.0,1619,2022-04-28,Sample property 416 from Source B. Located in a prime area with great amenities.
+B-0417,Portland,House,1541811.45,5,1.5,3035,2022-11-23,Sample property 417 from Source B. Located in a prime area with great amenities.
+B-0418,Portland,Loft,436548.0,1,3.5,2654,2024-03-12,Sample property 418 from Source B. Located in a prime area with great amenities.
+B-0419,San Diego,Townhouse,1237040.61,4,2.5,1875,2025-12-17,Sample property 419 from Source B. Located in a prime area with great amenities.
+B-0420,Miami,Townhouse,342538.65,4,1.5,3631,2025-04-12,Sample property 420 from Source B. Located in a prime area with great amenities.
+B-0421,Portland,House,376380.9,2,3.5,2707,2024-09-08,Sample property 421 from Source B. Located in a prime area with great amenities.
+B-0422,Miami,Townhouse,1100641.76,3,1.0,1410,2022-01-18,Sample property 422 from Source B. Located in a prime area with great amenities.
+B-0423,Miami,Apartment,657814.94,3,3.0,3724,2024-01-10,Sample property 423 from Source B. Located in a prime area with great amenities.
+B-0424,Miami,House,256142.44,4,3.0,2878,2022-07-22,Sample property 424 from Source B. Located in a prime area with great amenities.
+B-0425,Miami,Apartment,972296.11,4,2.0,1268,2025-02-20,Sample property 425 from Source B. Located in a prime area with great amenities.
+B-0426,San Diego,Townhouse,928329.88,6,1.5,2906,2023-03-27,Sample property 426 from Source B. Located in a prime area with great amenities.
+B-0427,Phoenix,Townhouse,820451.95,5,1.5,2750,2023-07-20,Sample property 427 from Source B. Located in a prime area with great amenities.
+B-0428,Phoenix,Apartment,799954.06,4,4.0,884,2025-02-03,Sample property 428 from Source B. Located in a prime area with great amenities.
+B-0429,San Diego,Apartment,1565896.96,2,2.0,1942,2023-11-04,Sample property 429 from Source B. Located in a prime area with great amenities.
+B-0430,Phoenix,Townhouse,836057.15,4,1.0,813,2025-11-13,Sample property 430 from Source B. Located in a prime area with great amenities.
+B-0431,San Diego,Apartment,930004.58,2,1.5,2696,2022-08-27,Sample property 431 from Source B. Located in a prime area with great amenities.
+B-0432,Phoenix,Condo,1284959.55,4,1.0,1780,2024-12-23,Sample property 432 from Source B. Located in a prime area with great amenities.
+B-0433,San Diego,Loft,298363.76,2,2.5,891,2024-01-19,Sample property 433 from Source B. Located in a prime area with great amenities.
+B-0434,Los Angeles,Loft,1304889.51,1,2.0,2158,2025-04-12,Sample property 434 from Source B. Located in a prime area with great amenities.
+B-0435,Los Angeles,House,1662383.59,5,1.5,2664,2025-12-04,Sample property 435 from Source B. Located in a prime area with great amenities.
+B-0436,San Diego,Loft,1053219.08,2,2.0,2913,2022-05-07,Sample property 436 from Source B. Located in a prime area with great amenities.
+B-0437,Portland,Loft,1089681.15,4,2.5,2641,2023-05-07,Sample property 437 from Source B. Located in a prime area with great amenities.
+B-0438,Atlanta,Loft,443964.59,2,3.0,1957,2022-12-16,Sample property 438 from Source B. Located in a prime area with great amenities.
+B-0439,Phoenix,Condo,958738.46,5,4.0,2512,2023-11-01,Sample property 439 from Source B. Located in a prime area with great amenities.
+B-0440,Los Angeles,House,326529.85,3,2.5,3079,2025-08-11,Sample property 440 from Source B. Located in a prime area with great amenities.
+B-0441,Dallas,Apartment,843662.41,1,3.0,2645,2023-02-01,Sample property 441 from Source B. Located in a prime area with great amenities.
+B-0442,Portland,Apartment,497278.95,6,1.5,1567,2023-06-01,Sample property 442 from Source B. Located in a prime area with great amenities.
+B-0443,Atlanta,Townhouse,1072897.86,5,2.0,2106,2024-12-12,Sample property 443 from Source B. Located in a prime area with great amenities.
+B-0444,Los Angeles,Townhouse,1061023.26,6,3.5,3251,2022-08-13,Sample property 444 from Source B. Located in a prime area with great amenities.
+B-0445,Portland,Condo,1674409.58,4,1.0,2721,2022-01-24,Sample property 445 from Source B. Located in a prime area with great amenities.
+B-0446,Los Angeles,Apartment,696060.46,6,1.5,3628,2022-10-09,Sample property 446 from Source B. Located in a prime area with great amenities.
+B-0447,Phoenix,Apartment,1057113.69,6,3.0,1442,2025-01-06,Sample property 447 from Source B. Located in a prime area with great amenities.
+B-0448,Atlanta,House,620139.21,2,2.5,1705,2025-11-17,Sample property 448 from Source B. Located in a prime area with great amenities.
+B-0449,Phoenix,Loft,1147936.97,3,3.5,1040,2022-11-20,Sample property 449 from Source B. Located in a prime area with great amenities.
+B-0450,Phoenix,Loft,817901.33,2,1.0,2681,2024-02-01,Sample property 450 from Source B. Located in a prime area with great amenities.
+B-0451,Miami,Apartment,868753.25,5,2.5,3741,2022-06-20,Sample property 451 from Source B. Located in a prime area with great amenities.
+B-0452,San Diego,Condo,690710.22,4,3.5,2648,2022-03-11,Sample property 452 from Source B. Located in a prime area with great amenities.
+B-0453,Miami,Townhouse,474781.22,1,4.0,2690,2024-09-21,Sample property 453 from Source B. Located in a prime area with great amenities.
+B-0454,Phoenix,House,1004086.55,1,1.0,3540,2024-07-05,Sample property 454 from Source B. Located in a prime area with great amenities.
+B-0455,Phoenix,Townhouse,1524238.97,2,2.0,3216,2022-08-21,Sample property 455 from Source B. Located in a prime area with great amenities.
+B-0456,San Diego,Apartment,1325562.37,1,1.5,2722,2023-02-21,Sample property 456 from Source B. Located in a prime area with great amenities.
+B-0457,Phoenix,House,1000009.07,3,2.0,1440,2024-07-24,Sample property 457 from Source B. Located in a prime area with great amenities.
+B-0458,Miami,Apartment,1103993.57,4,4.0,1631,2022-08-02,Sample property 458 from Source B. Located in a prime area with great amenities.
+B-0459,Los Angeles,Apartment,549607.52,1,4.0,2337,2025-06-08,Sample property 459 from Source B. Located in a prime area with great amenities.
+B-0460,Dallas,Condo,1062286.48,1,2.5,653,2025-01-27,Sample property 460 from Source B. Located in a prime area with great amenities.
+B-0461,Dallas,House,1139794.14,6,1.0,2515,2025-06-23,Sample property 461 from Source B. Located in a prime area with great amenities.
+B-0462,Los Angeles,Condo,1794035.36,4,2.5,2192,2022-04-10,Sample property 462 from Source B. Located in a prime area with great amenities.
+B-0463,Atlanta,Loft,1664454.58,4,4.0,1421,2022-03-13,Sample property 463 from Source B. Located in a prime area with great amenities.
+B-0464,Dallas,Apartment,1488868.65,2,3.0,1821,2024-09-04,Sample property 464 from Source B. Located in a prime area with great amenities.
+B-0465,Miami,Condo,1616392.37,3,4.0,1377,2023-02-07,Sample property 465 from Source B. Located in a prime area with great amenities.
+B-0466,Portland,Townhouse,599091.25,5,1.5,3328,2024-08-07,Sample property 466 from Source B. Located in a prime area with great amenities.
+B-0467,San Diego,Apartment,357677.02,3,2.0,1925,2022-06-17,Sample property 467 from Source B. Located in a prime area with great amenities.
+B-0468,San Diego,Condo,481421.14,4,2.5,2877,2022-06-25,Sample property 468 from Source B. Located in a prime area with great amenities.
+B-0469,San Diego,Loft,835900.45,5,3.0,2651,2025-11-10,Sample property 469 from Source B. Located in a prime area with great amenities.
+B-0470,Dallas,House,280363.17,4,2.5,3086,2024-06-01,Sample property 470 from Source B. Located in a prime area with great amenities.
+B-0471,Phoenix,Condo,803520.16,5,1.5,1851,2024-12-20,Sample property 471 from Source B. Located in a prime area with great amenities.
+B-0472,Phoenix,Townhouse,445798.38,1,1.0,3715,2025-06-17,Sample property 472 from Source B. Located in a prime area with great amenities.
+B-0473,Phoenix,Loft,1500409.24,2,2.5,955,2024-12-16,Sample property 473 from Source B. Located in a prime area with great amenities.
+B-0474,Miami,Loft,996796.97,2,3.5,2141,2025-11-14,Sample property 474 from Source B. Located in a prime area with great amenities.
+B-0475,Phoenix,Townhouse,904808.47,6,1.5,2365,2025-02-14,Sample property 475 from Source B. Located in a prime area with great amenities.
+B-0476,Los Angeles,Apartment,478484.94,2,1.0,3467,2025-07-02,Sample property 476 from Source B. Located in a prime area with great amenities.
+B-0477,San Diego,Townhouse,1505483.76,5,2.0,1308,2024-11-03,Sample property 477 from Source B. Located in a prime area with great amenities.
+B-0478,San Diego,Townhouse,329800.33,3,1.5,2677,2025-01-02,Sample property 478 from Source B. Located in a prime area with great amenities.
+B-0479,Portland,House,263622.21,6,1.5,3496,2022-01-27,Sample property 479 from Source B. Located in a prime area with great amenities.
+B-0480,Dallas,House,1584087.07,4,2.5,793,2022-02-23,Sample property 480 from Source B. Located in a prime area with great amenities.
+B-0481,Dallas,Condo,1669718.99,5,3.5,2149,2024-01-04,Sample property 481 from Source B. Located in a prime area with great amenities.
+B-0482,San Diego,Apartment,258728.8,4,1.5,1306,2025-10-16,Sample property 482 from Source B. Located in a prime area with great amenities.
+B-0483,Los Angeles,House,1322630.1,6,2.0,2610,2022-08-25,Sample property 483 from Source B. Located in a prime area with great amenities.
+B-0484,Miami,Loft,705447.53,6,3.5,1301,2025-01-01,Sample property 484 from Source B. Located in a prime area with great amenities.
+B-0485,Atlanta,Condo,1739129.4,5,1.5,3127,2024-01-05,Sample property 485 from Source B. Located in a prime area with great amenities.
+B-0486,Phoenix,Apartment,342412.2,4,3.0,1416,2022-10-21,Sample property 486 from Source B. Located in a prime area with great amenities.
+B-0487,San Diego,Townhouse,744223.52,3,2.5,1197,2025-01-02,Sample property 487 from Source B. Located in a prime area with great amenities.
+B-0488,Atlanta,Townhouse,568545.25,5,2.0,1904,2022-04-22,Sample property 488 from Source B. Located in a prime area with great amenities.
+B-0489,Atlanta,Townhouse,1476355.22,5,4.0,980,2025-08-18,Sample property 489 from Source B. Located in a prime area with great amenities.
+B-0490,Dallas,Townhouse,1598590.35,5,3.0,2862,2022-11-09,Sample property 490 from Source B. Located in a prime area with great amenities.
+B-0491,Dallas,Loft,762741.64,6,4.0,3296,2025-12-15,Sample property 491 from Source B. Located in a prime area with great amenities.
+B-0492,Portland,Loft,1312227.47,2,1.0,1588,2025-03-11,Sample property 492 from Source B. Located in a prime area with great amenities.
+B-0493,Atlanta,House,1611772.82,2,2.5,3122,2023-02-25,Sample property 493 from Source B. Located in a prime area with great amenities.
+B-0494,Portland,Townhouse,651935.57,6,1.5,1041,2022-01-22,Sample property 494 from Source B. Located in a prime area with great amenities.
+B-0495,San Diego,Loft,280501.18,6,2.5,1571,2023-06-11,Sample property 495 from Source B. Located in a prime area with great amenities.
+B-0496,Dallas,Loft,335537.75,5,4.0,1002,2022-03-10,Sample property 496 from Source B. Located in a prime area with great amenities.
+B-0497,San Diego,Loft,845940.56,1,3.0,1951,2024-10-08,Sample property 497 from Source B. Located in a prime area with great amenities.
+B-0498,Los Angeles,Apartment,1451688.26,2,1.5,921,2025-04-26,Sample property 498 from Source B. Located in a prime area with great amenities.
+B-0499,Miami,Apartment,899266.54,3,3.5,3484,2025-12-21,Sample property 499 from Source B. Located in a prime area with great amenities.
+B-0500,Atlanta,Townhouse,1567212.1,5,2.0,844,2025-12-22,Sample property 500 from Source B. Located in a prime area with great amenities.
